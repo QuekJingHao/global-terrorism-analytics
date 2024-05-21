@@ -1,0 +1,12 @@
+# Ignore folders
+.ipynb_checkpoints/
+
+
+# Ignore dataset folder due to its size
+1_Data/
+
+
+# Ignore single files
+git_commands
+.gitattributes
+
